@@ -82,3 +82,41 @@
 .next-btn{
     background-color: red;
 }
+.box{
+    width: 220px;
+    height: 300px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 0px 20px 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+   
+}
+.icon{
+    
+    width: 80px;
+    padding-top: 10px;
+}
+.box-title{
+    padding: 5px;
+}
+.box-description{
+    padding: 5px;
+}
+.box-btn{
+    background-color: gray;
+   margin: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.service{
+    background-image: url("./images/background.png"), linear-gradient(45deg,#080808, rgb(22, 21, 21));
+}
+.service-title{
+    color: white;
+}
